@@ -1,0 +1,14 @@
+DONE: Option zum enablen/disablen von Allen Geschenken
+DONE: Gesendete Geschenke Seite
+DONE: Bug mit Link in River fixen
+
+
+DONE: Administration auf externe Seite auslagern
+Bilder zu den Geschenken hochladen
+
+Nachricht zu den Geschenken
+	Nachricht wird in Metadaten nicht gespeichert
+
+----
+
+Userpoint API
